@@ -36,8 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=NusvaraScript&show_icons=true&theme=radical" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=NusvaraScript&layout=compact&theme=radical" alt="Bahasa Terpopuler" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NusvaraScript&theme=radical" alt="Summary Cards" />
 </p>
 ---
 
