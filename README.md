@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks:**
+**Languages & Frameworks:** <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -22,7 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools & Databases:**
+**Tools & Databases:** <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,6 +48,4 @@
 ---
 
 ### 🏆 Top Projects
-**[Nothing Yet]()
-``1. **[Nama Proyek 1](link-proyek)** - Deskripsi singkat tentang proyek ini.``
-``2. **[Nama Proyek 2](link-proyek)** - Deskripsi singkat tentang proyek ini.``
+1. **[Nothing Yet]()
