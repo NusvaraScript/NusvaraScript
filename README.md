@@ -35,9 +35,11 @@
 ---
 
 ### 📊 GitHub Stats
+<br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NusvaraScript&theme=radical" alt="Summary Cards" />
 </p>
+<br>
 ---
 
 ### 🌐 Connect with Me
