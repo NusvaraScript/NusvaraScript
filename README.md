@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Nothing:p]**
-- 🌱 I’m currently learning **[CyberSecurity, and Machine Learning]**
+- 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **Web Development, Linux or Anything Related!**
-- ⚡ Fun fact: **[Idk]**
+- ⚡ Fun fact: **[I can't understand Cyber Security]**
 
 ---
 
