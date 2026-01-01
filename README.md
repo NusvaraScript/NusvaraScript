@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[Nothing:p]**
 - 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **Web Development, Linux or Anything Related!**
-- ⚡ Fun fact: **[I can't understand Cyber Security]**
+- ⚡ Fun fact: **[I can not understand Cyber Security]**
 
 ---
 
