@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[Nothing:p]**
 - 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **[Web Development, Linux or Anything Related!]**
-- ⚡ Fun fact: **[I can not understand Cyber Security]**
+- ⚡ Fun fact: **[I can not understand Cyber Security, yet]**
 
 ---
 
@@ -56,9 +56,4 @@
 <a href="https://x.com/nvara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="mailto:[nusvara.script@gmail.com]" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
 </a>
-</p>
-
----
-
-### 🏆 Top Projects
-1. **[Nothing Yet]()
+</p
