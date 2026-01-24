@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Nothing:p]**
+- 🔭 I’m currently working on **[KNN & Decision Tree Classification]**
 - 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **[Web Development, Linux or Anything Related!]**
 - ⚡ Fun fact: **[I can not understand Cyber Security, yet]**
@@ -15,8 +15,6 @@
 ### 🛠 Tech Stack
 
 **Languages & Frameworks:** <br>
-![HTML5](https://shields.io/badge/HTML-white?logo=html5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,6 +26,8 @@
 ![Svelte](https://shields.io/badge/Svelte-white?logo=svelte&style=for-the-badge)
 
 **Tools & Databases:** <br>
+![HTML5](https://shields.io/badge/HTML-white?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
