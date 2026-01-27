@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[KNN & Decision Tree Classification]**
+- 🔭 I’m currently working on **[Linier Regression Classification Program]**
 - 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **[Web Development, Linux or Anything Related!]**
 - ⚡ Fun fact: **[I can not understand Cyber Security, yet]**
