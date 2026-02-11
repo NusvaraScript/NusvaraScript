@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Linier Regression Classification Program]**
+- 🔭 I’m currently working on **[Fundamentals off AI]**
 - 🌱 I’m currently learning **[Machine Learning]**
 - 💬 Ask me about **[Web Development, Linux or Anything Related!]**
 - ⚡ Fun fact: **[I can not understand Cyber Security, yet]**
@@ -20,10 +20,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot-js&logoColor=white)
-![Express.js](https://shields.io/badge/Express.js-black?logo=express&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Svelte](https://shields.io/badge/Svelte-white?logo=svelte&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Tools & Databases:** <br>
 ![HTML5](https://shields.io/badge/HTML-white?logo=html5&style=for-the-badge)
@@ -33,6 +32,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
