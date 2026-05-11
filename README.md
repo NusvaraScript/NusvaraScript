@@ -1,7 +1,7 @@
 # Hello, I'm Nusvaa 👋
 
 <p align="center">
-  <img src="./img/cry.jpg">
+  <img src="./img/cry.png">
 </p>
 
 ### 👨‍💻 About Me
