@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 * 🔭 **Currently working on:** Various academic and full-stack development projects.
-* 🌱 **Currently learning:** Deepening my knowledge in Machine Learning and Data Science.
+* 🌱 **Currently learning:** Deepening my knowledge in Machine Learning and Data Science, I guess.
 * 🎯 **Current Focus:** Expanding my technical expertise, with a future interest in exploring Cybersecurity.
 * 💬 **Ask me about:** Web Development, Linux environments, or anything tech-related!
 
